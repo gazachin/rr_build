@@ -9,7 +9,6 @@ ifneq ($(RR_BUILDTYPE),)
 endif
 print_build_config_vars += \
   DEVICE \
-  WITH_ROOT_METHOD \
   TARGET_BUILD_VARIANT \
   TARGET_ARCH \
   BUILD_ID \
